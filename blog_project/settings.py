@@ -25,7 +25,7 @@ SECRET_KEY = 'd)os$p)@cydirq-kw5_g!pc()!$pf4pjrvs(%x88&bw2e82k3#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
